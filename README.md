@@ -27,12 +27,12 @@ A simple React Native app with three pages: Login/Sign Up, Homepage, and Profile
 - **`components/Profile.js`**: Profile page with profile details and posts.
 
 
-##Screenshot
+## Screenshots
 
-##Login
+## Login
 ![page 1](https://github.com/user-attachments/assets/5e3f2b39-a7df-43ab-8f59-2807317f0e43)
 
-##Home
+## Home
 ![page 2](https://github.com/user-attachments/assets/2e2db0bf-8165-48fa-9c6e-d748a6fee2e2)
 
 
